@@ -1,0 +1,6 @@
+VOLTAGE DIVIDER
+Voltage divider is a simple circuit used to produce lower voltage from a higher voltage source.
+GRAPHN DESCRIPTION 
+Green- Input Voltage
+Red - Output Voltage(Taken in between the points were two resistors connects)
+Blue- Current in resistors R1 & R2
